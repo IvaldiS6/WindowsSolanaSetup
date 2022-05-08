@@ -1,0 +1,11 @@
+/// The following commands are what I used to get the install to work on my Windows 11 laptop. I modified them from the official Solana install information https://docs.solana.com/cli/install-solana-cli-tools
+
+/// Make sure you are running CMD as an administrator.  
+
+curl https://release.solana.com/stable/solana-install-init-x86_64-pc-windows-msvc.exe --output C:\solana-install-tmp\solana-install-init.exe --create-dirs
+
+C:\solana-install-tmp\solana-install-init.exe stable
+
+/// Solana should now be installed, verify by entring the following command
+
+solana --version

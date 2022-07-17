@@ -7,7 +7,7 @@ Please look at the sample below.
 
 /// this is a comment
 
-this is a command
+this is a command or website URL
 
 
 

@@ -9,3 +9,15 @@ C:\solana-install-tmp\solana-install-init.exe stable
 /// Solana should now be installed, verify by entring the following command
 
 solana --version
+
+
+///Install rust.  I used the website
+https://www.rust-lang.org/tools/install
+
+///once rust is installed run the following command in the CLI (It can take a while for it to finish)
+cargo install spl-token-cli
+
+///once it finishes you may need to close and re-open Command prompt, then run the following to confirm it is working
+spl-token --version
+
+///All set!  Happy building!

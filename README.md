@@ -11,4 +11,4 @@ this is a command or website URL
 
 
 
-(If you found this useful and want to send a beer or something: SOL 9ZWYoRJq6i9qduZDkmRtx5aZjfY1ZfBuo2ZXXy3XefU6)
+(If you found this useful and want to send a beer or something: SOL HDsgHK5mZ72hRVHQr21Sa9pw3hBx3E8uvMZkfyRLAVgT)
